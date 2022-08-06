@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">Canteen</string>
+    <string name="label_email" translatable="false">Email</string>
+    <string name="label_pwd">Password</string>
+    <string name="label_terms">I agree with the</string>
+    <string name="terms">Terms and Private\nPolicy</string>
+    <string name="button_login">Log In</string>
+    <string name="label_register">Don\'t have an account?</string>
+    <string name="register">Sign up</string>
+    <string name="label_poweredby">Powered By:</string>
+    <string name="ipc_logo" translatable="false">IPC logo</string>
+    <string name="header_image">Header image</string>
+    <string name="label_buy">Buy</string>
+    <string name="label_cancel">Cancel</string>
+    <string name="label_dinnerMenu">Dinner Menu</string>
+    <string name="label_lunchMenu">Lunch</string>
+    <string name="label_soup">Soup</string>
+    <string name="label_vegOption">Vegetarian Option</string>
+    <string name="label_fishOption">Fish Option</string>
+    <string name="label_meatOption">Meat Option</string>
+    <string name="label_dessert">Dessert</string>
+    <string name="title_login">Login</string>
+    <string name="title_signup">Sign Up</string>
+    <string name="title_meals">Menus</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_support">Support</string>
+    <string name="btn_meals">See\nMenus</string>
+    <string name="btn_qrcode_scan">Scan QrCode</string>
+    <string name="btn_extract">Extract</string>
+    <string name="label_send">Send</string>
+    <string name="title_balance">Balance</string>
+    <string name="label_logout">Log Out</string>
+    <string name="label_contact1">General Contact</string>
+    <string name="phonenumber1" translatable="false">238 605 170</string>
+    <string name="label_contact2">Academic Services Contact</string>
+    <string name="phonenumber2" translatable="false">238 605 176</string>
+    <string name="label_email1">General Email</string>
+    <string name="email1" translatable="false">geral@estgoh.ipc.pt</string>
+    <string name="label_email2">Academic Services Email</string>
+    <string name="email2" translatable="false">academicos@estgoh.ipc.pt</string>
+    <string name="label_operation">Operation</string>
+    <string name="label_cost">Cost</string>
+    <string name="label_date">Date</string>
+    <string name="btn_addbalance">Add Balance</string>
+    <string name="btn_insertmenus">Insert Menus</string>
+    <string name="label_name">Full Name</string>
+    <string name="label_amount">Amount (€)</string>
+    <string name="btn_add">Add</string>
+    <string name="label_meal">Meal</string>
+    <string-array name="meal_option">
+        <item>Lunch</item>
+        <item>Dinner</item>
+    </string-array>
+    <string name="btn_insert">Insert</string>
+    <string name="label_nid">Identification number</string>
+    <string name="title_profile">Profile</string>
+    <string name="label_position">Position</string>
+    <string name="label_update">Update</string>
+    <string name="label_confirm_pwd">Confirm Password</string>
+    <string name="label_empty_meals">There are no meals for this day</string>
+    <string name="label_anonymous">Anonymous?</string>
+    <string-array name="support_option">
+        <item>Sugestões</item>
+        <item>Reports de Bugs</item>
+    </string-array>
+    <string name="label_mainMeal">Main Meal</string>
+    <string-array name="meal_type">
+        <item>Fish</item>
+        <item>Meat</item>
+        <item>Vegetarian</item>
+    </string-array>
+    <string name="btn_registerMeals">Register Meals</string>
+    <string name="label_price">Price:</string>
+    <string-array name="reports_suggestions">
+        <item>Bug Report</item>
+        <item>Suggestions</item>
+    </string-array>
+    <string name="label_empty">[Empty]</string>
+
+
+</resources>

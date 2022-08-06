@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cantina</string>
+    <string name="label_pwd">Palavra Passe</string>
+    <string name="label_register">Ainda não estás registado?</string>
+    <string name="register">Registar</string>
+    <string name="button_login">Entrar</string>
+    <string name="label_poweredby">Distribuído por:</string>
+    <string name="header_image">Imagem do cabeçalho</string>
+    <string name="label_terms">Eu concordo com</string>
+    <string name="terms">Termos e Política\nde Privacidade</string>
+    <string name="label_buy">Comprar</string>
+    <string name="label_cancel">Anular</string>
+    <string name="label_dinnerMenu">Menu Jantar</string>
+    <string name="label_lunchMenu">Almoço</string>
+    <string name="label_soup">Sopa</string>
+    <string name="label_vegOption">Prato Vegetariano</string>
+    <string name="label_fishOption">Prato de Peixe</string>
+    <string name="label_meatOption">Prato de Carne</string>
+    <string name="label_dessert">Sobremesa</string>
+    <string name="title_login">Iniciar sessão</string>
+    <string name="title_signup">Registar</string>
+    <string name="title_dashboard">Menu</string>
+    <string name="title_support">Suporte</string>
+    <string name="title_meals">Ementas</string>
+    <string name="btn_meals">Ver\nEmentas</string>
+    <string name="btn_qrcode_scan">Ler QrCode</string>
+    <string name="btn_extract">Extrato</string>
+    <string name="label_send">Enviar</string>
+    <string name="title_balance">Saldo</string>
+    <string name="label_logout">Terminar sessão</string>
+    <string name="label_contact1">Contacto Geral</string>
+    <string name="label_contact2">Contacto Serviços Académicos</string>
+    <string name="label_email1">Email Geral</string>
+    <string name="label_email2">Email Serviços Académicos</string>
+    <string name="label_operation">Operação</string>
+    <string name="label_cost">Custo</string>
+    <string name="label_date">Data</string>
+    <string name="btn_addbalance">Carregar Saldo</string>
+    <string name="btn_insertmenus">Inserir ementas</string>
+    <string name="label_name">Nome Completo</string>
+    <string name="label_amount">Quantidade (€)</string>
+    <string name="btn_add">Carregar</string>
+    <string name="label_meal">Refeição</string>
+    <string-array name="meal_option">
+        <item>Almoço</item>
+        <item>Jantar</item>
+    </string-array>
+    <string name="btn_insert">Inserir</string>
+    <string name="label_nid">Número de Identificação</string>
+    <string name="title_profile">Perfil</string>
+    <string name="label_position">Cargo</string>
+    <string name="label_update">Atualizar</string>
+    <string name="label_confirm_pwd">Confirmar Palavra Passe</string>
+    <string name="label_empty_meals">Não existem ementas para este dia</string>
+    <string name="label_anonymous">"Anónimo? "</string>
+    <string name="label_mainMeal">Prato</string>
+    <string-array name="meal_type">
+        <item>Peixe</item>
+        <item>Carne</item>
+        <item>Vegetariano</item>
+    </string-array>
+    <string name="btn_registerMeals">Registar Pratos</string>
+    <string name="label_price">Preço:</string>
+    <string-array name="reports_suggestions">
+        <item>Reporte de Bugs</item>
+        <item>Sugestões</item>
+    </string-array>
+    <string name="label_empty">[Vazio]</string>
+</resources>
